@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabiha Nasrin Jyoti</h1>
-<h3 align="center">Junior Frontend Web Developer</h3>
+<h3 align="center">Senior Frontend Web Developer</h3>
 
 <img src="https://github.com/sabihajyoti22/sabihajyoti22/blob/main/Images/Study.png"/>
 
