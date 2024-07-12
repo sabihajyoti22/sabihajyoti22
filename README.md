@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Vue.js**
 
-- 🌱 I’m currently learning **Service Worker**
+- 🌱 I’m currently learning **Electron**
 
 - 👨‍💻 All of my projects are available at [https://sabihajyoti-portfolio.netlify.app/](https://sabihajyoti-portfolio.netlify.app/)
 
