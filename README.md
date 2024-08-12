@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👉 I am very passionate and hard-working person. My goal is to become a web developer. The functionality of web development fascinates me. I am always very eager to learn new things. I have acquired the skills of web development and graphics designing. Besides, I am a very clam and positive person.</p>
+<p align="left">👉 I am very passionate and hard-working person. The functionality of web development fascinates me. I am always very eager to learn new things. I have acquired the skills of web development and graphics designing. Besides, I am a very clam and positive person.</p>
 
 ###
 
