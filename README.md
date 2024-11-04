@@ -19,7 +19,7 @@
 ###
 <div>
 
-<p align="left" >- 🔭 Currently I'm working as Senior Web Developer<br><br>- 🌱 I’m currently learning **Electron**<br><br>- 👨‍💻 All of my projects are available at [https://sabihajyoti-portfolio.netlify.app/](https://sabihajyoti-portfolio.netlify.app/)<br></p>
+<p align="left" >- 🔭 Currently I'm working as Senior Web Developer<br><br>- 🌱 I’m currently learning ** Electron **<br><br>- 👨‍💻 All of my projects are available at [https://sabihajyoti-portfolio.netlify.app/](https://sabihajyoti-portfolio.netlify.app/)<br></p>
 
 ###
 
